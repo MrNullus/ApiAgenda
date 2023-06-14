@@ -1,0 +1,100 @@
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\appsettings.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\APIAgenda.exe
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\APIAgenda.deps.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\APIAgenda.runtimeconfig.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\APIAgenda.runtimeconfig.dev.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\APIAgenda.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\APIAgenda.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.csproj.AssemblyReference.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.AssemblyInfoInputs.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.AssemblyInfo.cs
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.csproj.CoreCompileInputs.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\scopedcss\bundle\APIAgenda.styles.css
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\staticwebassets\APIAgenda.StaticWebAssets.Manifest.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\staticwebassets\APIAgenda.StaticWebAssets.Pack.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\staticwebassets\msbuild.APIAgenda.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\staticwebassets\msbuild.build.APIAgenda.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.APIAgenda.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.APIAgenda.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.RazorTargetAssemblyInfo.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.csproj.CopyComplete
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\refint\APIAgenda.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\APIAgenda.genruntimeconfig.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\obj\Debug\net5.0\ref\APIAgenda.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\API.DataAccess.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\API.Model.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\API.DataAccess.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\API.DataAccess.dll.config
+C:\Users\risan\OneDrive\Área de Trabalho\API\APIAgenda\bin\Debug\net5.0\API.Model.pdb
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\appsettings.json
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\APIAgenda.exe
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\APIAgenda.deps.json
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\APIAgenda.runtimeconfig.json
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\APIAgenda.runtimeconfig.dev.json
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\APIAgenda.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\ref\APIAgenda.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\APIAgenda.pdb
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\API.DataAccess.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\API.Model.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\API.DataAccess.pdb
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\API.DataAccess.dll.config
+C:\Users\Etec\Downloads\API2\API\APIAgenda\bin\Debug\net5.0\API.Model.pdb
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.csproj.AssemblyReference.cache
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.AssemblyInfoInputs.cache
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.AssemblyInfo.cs
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\staticwebassets\APIAgenda.StaticWebAssets.Manifest.cache
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\staticwebassets\APIAgenda.StaticWebAssets.xml
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\scopedcss\bundle\APIAgenda.styles.css
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.RazorTargetAssemblyInfo.cache
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.csproj.CopyComplete
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\ref\APIAgenda.dll
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.pdb
+C:\Users\Etec\Downloads\API2\API\APIAgenda\obj\Debug\net5.0\APIAgenda.genruntimeconfig.cache

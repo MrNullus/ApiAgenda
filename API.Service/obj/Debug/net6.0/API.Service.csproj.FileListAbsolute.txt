@@ -1,0 +1,107 @@
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\appsettings.json
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Service.exe
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Service.deps.json
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Service.runtimeconfig.json
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Service.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Service.pdb
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.AssemblyInfo.cs
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.API.Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.build.API.Service.props
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.Service.props
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.Service.props
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\scopedcss\bundle\API.Service.styles.css
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.dll
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\refint\API.Service.dll
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.pdb
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.genruntimeconfig.cache
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\ref\API.Service.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.DataAccess.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Model.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.DataAccess.pdb
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.DataAccess.dll.config
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\API.Model.pdb
+C:\Users\Rick\Desktop\API\API.Service\obj\Debug\net6.0\API.Service.csproj.CopyComplete
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rick\Desktop\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\appsettings.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Service.exe
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Service.deps.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Service.runtimeconfig.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Service.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Service.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.DataAccess.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Model.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.DataAccess.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.DataAccess.dll.config
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\bin\Debug\net6.0\API.Model.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.csproj.AssemblyReference.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.AssemblyInfoInputs.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.AssemblyInfo.cs
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.csproj.CoreCompileInputs.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.API.Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.build.API.Service.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.Service.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.Service.props
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\scopedcss\bundle\API.Service.styles.css
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.csproj.CopyComplete
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\refint\API.Service.dll
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\API.Service.genruntimeconfig.cache
+C:\Users\risan\OneDrive\Área de Trabalho\API\API.Service\obj\Debug\net6.0\ref\API.Service.dll

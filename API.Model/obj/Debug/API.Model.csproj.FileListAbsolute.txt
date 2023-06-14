@@ -1,0 +1,12 @@
+C:\Users\Rick\Desktop\API\API.Model\bin\Debug\API.Model.dll
+C:\Users\Rick\Desktop\API\API.Model\bin\Debug\API.Model.pdb
+C:\Users\Rick\Desktop\API\API.Model\obj\Debug\API.Model.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\API\API.Model\obj\Debug\API.Model.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\API\API.Model\obj\Debug\API.Model.dll
+C:\Users\Rick\Desktop\API\API.Model\obj\Debug\API.Model.pdb
+C:\Users\Etec\Downloads\API2\API\API.Model\bin\Debug\API.Model.dll
+C:\Users\Etec\Downloads\API2\API\API.Model\bin\Debug\API.Model.pdb
+C:\Users\Etec\Downloads\API2\API\API.Model\obj\Debug\API.Model.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Downloads\API2\API\API.Model\obj\Debug\API.Model.dll
+C:\Users\Etec\Downloads\API2\API\API.Model\obj\Debug\API.Model.pdb
+C:\Users\Etec\Downloads\API2\API\API.Model\obj\Debug\API.Model.csproj.AssemblyReference.cache
