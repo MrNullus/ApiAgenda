@@ -35,13 +35,23 @@ namespace API.DataAccess
         }
 
         /// <summary>
-        /// Retornando contato por celular principal
+        /// Retornando contato por telefone principal
         /// </summary>
         /// <param name="celular"></param>
         /// <returns></returns>
-        public Contato GetContatoPorCelular(string celular)
+        public Contato GetContatoPorCelular(string telefone)
         {
-            return DB.Contatos.Where(x => x.Celular== celular).FirstOrDefault();
+            return DB.Contatos.Where(x => x.TelefonePrincipal == telefone).FirstOrDefault();
+        }
+        
+        /// <summary>
+        /// Retornando contato por nome
+        /// </summary>
+        /// <param name="nome"></param>
+        /// <returns></returns>
+        public Contato GetContatoPorNome(string nome)
+        {
+            return DB.Contatos.Where(x => x.Nome == nome).FirstOrDefault();
         }
 
         /// <summary>
