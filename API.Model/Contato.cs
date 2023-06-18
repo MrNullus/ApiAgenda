@@ -11,7 +11,8 @@ namespace API.Model
         public int ID { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
-        public string Telefone { get; set; }
+        public string TelefonePrincipal { get; set; }
+        public string TelefoneSecundario { get; set; }
         public string Celular { get; set; }
     }
 }
