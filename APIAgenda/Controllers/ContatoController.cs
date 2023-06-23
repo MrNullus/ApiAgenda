@@ -1,4 +1,4 @@
-﻿using API.DataAccess;
+using API.DataAccess;
 using API.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -25,11 +25,8 @@ namespace APIAgenda.Controllers
 
             contatoRepositorio = new ContatoRepositorio(connString);
 
-
-
             _logger = logger;
         }
-
 
         [HttpGet]
         [Route("contatos")]
@@ -45,24 +42,28 @@ namespace APIAgenda.Controllers
             return contatoRepositorio.Get(id);
         }
 
-
         [HttpGet]
         [Route("contatoscelular")]
-        public Contato GetByCeelular(string celular)
+        public Contato GetByCelular(string celular)
         {
             return contatoRepositorio.GetContatoPorCelular(celular);
         }
 
+        [HttpGet]
+        [Route("contatosnome")]
+        public Contato GetByNome(string nome)
+        {
+            return contatoRepositorio.GetContatoPorNome(nome);
+        }
 
         [HttpPut]
         [Route("inserircontato")]
         public string InserirContato(Contato contato)
         {
             int result = contatoRepositorio.Insert(contato);
-            if (result == 0) return "erro ao inserir dados";
+            if (result == 0) return "Erro ao inserir dados";
             else return "Contato inserido com sucesso!!!";
         }
-
 
         [HttpPatch]
         [Route("atualizarcontato")]
@@ -73,14 +74,13 @@ namespace APIAgenda.Controllers
             else return "Contato atualizado com sucesso!!!";
         }
 
-
         [HttpDelete]
         [Route("excluircontato")]
         public string ExcluirContato(int ID)
         {
             int result = contatoRepositorio.Delete(ID);
             if (result == 0) return "Erro ao excluir contato!!";
-            else return "Contato excluido com sucesso!!!";
+            else return "Contato excluído com sucesso!!!";
         }
     }
 }
