@@ -94,6 +94,17 @@ namespace API.DataAccess
         }
 
         /// <summary>
+        /// Retorna o primeiro contato cujo nome contenha a string especificada.
+        /// </summary>
+        /// <param name="nome">O nome a ser pesquisado.</param>
+        /// <returns>O contato encontrado ou null se não for encontrado.</returns>
+        public Contato GetContatoPorNome(string nome)
+        {
+            return DB.Contatos.FirstOrDefault(x => x.Nome.Contains(nome));
+        }
+
+
+        /// <summary>
         /// deletando o contato
         /// </summary>
         /// <param name="contato"></param>
